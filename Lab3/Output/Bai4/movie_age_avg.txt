@@ -1,0 +1,35 @@
+------------------------------------------------------------
+Phim: Gladiator (2000) | Nhóm tuổi: 36-50    | Điểm TB: 3.81
+Phim: Gladiator (2000) | Nhóm tuổi: 18-35    | Điểm TB: 3.44
+Phim: Gladiator (2000) | Nhóm tuổi: 50+      | Điểm TB: 3.50
+Phim: Mad Max: Fury Road (2015) | Nhóm tuổi: 18-35    | Điểm TB: 3.36
+Phim: Mad Max: Fury Road (2015) | Nhóm tuổi: 36-50    | Điểm TB: 3.64
+Phim: The Social Network (2010) | Nhóm tuổi: 36-50    | Điểm TB: 3.67
+Phim: The Social Network (2010) | Nhóm tuổi: 18-35    | Điểm TB: 4.00
+Phim: E.T. the Extra-Terrestrial (1982) | Nhóm tuổi: 36-50    | Điểm TB: 3.83
+Phim: E.T. the Extra-Terrestrial (1982) | Nhóm tuổi: 18-35    | Điểm TB: 3.56
+Phim: E.T. the Extra-Terrestrial (1982) | Nhóm tuổi: 50+      | Điểm TB: 3.00
+Phim: Sunset Boulevard (1950) | Nhóm tuổi: 36-50    | Điểm TB: 4.50
+Phim: Sunset Boulevard (1950) | Nhóm tuổi: 18-35    | Điểm TB: 4.17
+Phim: The Terminator (1984) | Nhóm tuổi: 18-35    | Điểm TB: 4.17
+Phim: The Terminator (1984) | Nhóm tuổi: 36-50    | Điểm TB: 4.05
+Phim: The Terminator (1984) | Nhóm tuổi: 50+      | Điểm TB: 3.75
+Phim: Fight Club (1999) | Nhóm tuổi: 18-35    | Điểm TB: 3.50
+Phim: Fight Club (1999) | Nhóm tuổi: 50+      | Điểm TB: 3.50
+Phim: Fight Club (1999) | Nhóm tuổi: 36-50    | Điểm TB: 3.50
+Phim: The Godfather: Part II (1974) | Nhóm tuổi: 18-35    | Điểm TB: 3.78
+Phim: The Godfather: Part II (1974) | Nhóm tuổi: 36-50    | Điểm TB: 4.25
+Phim: The Lord of the Rings: The Return of the King (2003) | Nhóm tuổi: 18-35    | Điểm TB: 3.83
+Phim: The Lord of the Rings: The Return of the King (2003) | Nhóm tuổi: 36-50    | Điểm TB: 3.81
+Phim: The Lord of the Rings: The Fellowship of the Ring (2001) | Nhóm tuổi: 18-35    | Điểm TB: 4.00
+Phim: The Lord of the Rings: The Fellowship of the Ring (2001) | Nhóm tuổi: 36-50    | Điểm TB: 3.83
+Phim: Psycho (1960) | Nhóm tuổi: 18-35    | Điểm TB: 4.50
+Phim: Psycho (1960) | Nhóm tuổi: 36-50    | Điểm TB: 3.50
+Phim: The Silence of the Lambs (1991) | Nhóm tuổi: 18-35    | Điểm TB: 3.00
+Phim: The Silence of the Lambs (1991) | Nhóm tuổi: 36-50    | Điểm TB: 3.25
+Phim: No Country for Old Men (2007) | Nhóm tuổi: 18-35    | Điểm TB: 3.81
+Phim: No Country for Old Men (2007) | Nhóm tuổi: 36-50    | Điểm TB: 3.94
+Phim: No Country for Old Men (2007) | Nhóm tuổi: 50+      | Điểm TB: 4.00
+Phim: Lawrence of Arabia (1962) | Nhóm tuổi: 50+      | Điểm TB: 4.50
+Phim: Lawrence of Arabia (1962) | Nhóm tuổi: 36-50    | Điểm TB: 3.29
+Phim: Lawrence of Arabia (1962) | Nhóm tuổi: 18-35    | Điểm TB: 3.60

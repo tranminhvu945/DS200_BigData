@@ -3,5 +3,7 @@
         "lib/**/*.jar",
         "c:\\hadoop-3.4.2\\share\\hadoop\\mapreduce\\hadoop-mapreduce-client-core-3.4.2.jar",
         "c:\\hadoop-3.4.2\\share\\hadoop\\common\\hadoop-common-3.4.2.jar"
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }

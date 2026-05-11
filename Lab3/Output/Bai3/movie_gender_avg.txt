@@ -1,0 +1,29 @@
+Điểm trung bình phim theo giới tính
+--------------------------------------------------
+Phim: Gladiator (2000) | Giới tính: M | Điểm TB: 3.59
+Phim: Gladiator (2000) | Giới tính: F | Điểm TB: 3.64
+Phim: Sunset Boulevard (1950) | Giới tính: M | Điểm TB: 4.33
+Phim: Sunset Boulevard (1950) | Giới tính: F | Điểm TB: 4.50
+Phim: E.T. the Extra-Terrestrial (1982) | Giới tính: M | Điểm TB: 3.81
+Phim: E.T. the Extra-Terrestrial (1982) | Giới tính: F | Điểm TB: 3.55
+Phim: Mad Max: Fury Road (2015) | Giới tính: M | Điểm TB: 4.00
+Phim: Mad Max: Fury Road (2015) | Giới tính: F | Điểm TB: 3.32
+Phim: The Social Network (2010) | Giới tính: M | Điểm TB: 4.00
+Phim: The Social Network (2010) | Giới tính: F | Điểm TB: 3.67
+Phim: The Terminator (1984) | Giới tính: F | Điểm TB: 4.14
+Phim: The Terminator (1984) | Giới tính: M | Điểm TB: 3.93
+Phim: Fight Club (1999) | Giới tính: M | Điểm TB: 3.50
+Phim: Fight Club (1999) | Giới tính: F | Điểm TB: 3.50
+Phim: The Godfather: Part II (1974) | Giới tính: M | Điểm TB: 4.06
+Phim: The Godfather: Part II (1974) | Giới tính: F | Điểm TB: 3.94
+Phim: The Lord of the Rings: The Fellowship of the Ring (2001) | Giới tính: M | Điểm TB: 4.00
+Phim: The Lord of the Rings: The Fellowship of the Ring (2001) | Giới tính: F | Điểm TB: 3.80
+Phim: The Lord of the Rings: The Return of the King (2003) | Giới tính: M | Điểm TB: 3.75
+Phim: The Lord of the Rings: The Return of the King (2003) | Giới tính: F | Điểm TB: 3.90
+Phim: Psycho (1960) | Giới tính: F | Điểm TB: 4.00
+Phim: The Silence of the Lambs (1991) | Giới tính: M | Điểm TB: 3.33
+Phim: The Silence of the Lambs (1991) | Giới tính: F | Điểm TB: 3.00
+Phim: No Country for Old Men (2007) | Giới tính: M | Điểm TB: 3.92
+Phim: No Country for Old Men (2007) | Giới tính: F | Điểm TB: 3.83
+Phim: Lawrence of Arabia (1962) | Giới tính: F | Điểm TB: 3.31
+Phim: Lawrence of Arabia (1962) | Giới tính: M | Điểm TB: 3.55

@@ -1,0 +1,14 @@
+Nghề nghiệp: Programmer      | Điểm TB: 4.25 | Tổng lượt: 10
+Nghề nghiệp: Designer        | Điểm TB: 4.00 | Tổng lượt: 13
+Nghề nghiệp: Student         | Điểm TB: 4.00 | Tổng lượt: 8
+Nghề nghiệp: Nurse           | Điểm TB: 3.86 | Tổng lượt: 11
+Nghề nghiệp: Consultant      | Điểm TB: 3.86 | Tổng lượt: 14
+Nghề nghiệp: Journalist      | Điểm TB: 3.85 | Tổng lượt: 17
+Nghề nghiệp: Artist          | Điểm TB: 3.73 | Tổng lượt: 11
+Nghề nghiệp: Teacher         | Điểm TB: 3.70 | Tổng lượt: 5
+Nghề nghiệp: Doctor          | Điểm TB: 3.69 | Tổng lượt: 21
+Nghề nghiệp: Lawyer          | Điểm TB: 3.65 | Tổng lượt: 17
+Nghề nghiệp: Salesperson     | Điểm TB: 3.65 | Tổng lượt: 17
+Nghề nghiệp: Accountant      | Điểm TB: 3.58 | Tổng lượt: 6
+Nghề nghiệp: Engineer        | Điểm TB: 3.56 | Tổng lượt: 18
+Nghề nghiệp: Manager         | Điểm TB: 3.47 | Tổng lượt: 16

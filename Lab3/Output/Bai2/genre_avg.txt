@@ -1,0 +1,14 @@
+Thể loại, Điểm trung bình
+------------------------------
+Thể loại: Film-Noir       | Avg Rating: 4.36
+Thể loại: Horror          | Avg Rating: 4.00
+Thể loại: Mystery         | Avg Rating: 4.00
+Thể loại: Fantasy         | Avg Rating: 3.86
+Thể loại: Crime           | Avg Rating: 3.81
+Thể loại: Drama           | Avg Rating: 3.76
+Thể loại: Sci-Fi          | Avg Rating: 3.73
+Thể loại: Action          | Avg Rating: 3.71
+Thể loại: Thriller        | Avg Rating: 3.70
+Thể loại: Family          | Avg Rating: 3.67
+Thể loại: Adventure       | Avg Rating: 3.63
+Thể loại: Biography       | Avg Rating: 3.56
