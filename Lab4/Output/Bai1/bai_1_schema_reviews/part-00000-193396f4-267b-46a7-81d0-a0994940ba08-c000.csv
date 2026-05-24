@@ -1,0 +1,8 @@
+table_name,column_order,column_name,data_type,nullable
+reviews,1,Review_ID,string,true
+reviews,2,Order_ID,string,true
+reviews,3,Review_Score,int,true
+reviews,4,Review_Comment_Title_En,string,true
+reviews,5,Review_Comment_Message_En,string,true
+reviews,6,Review_Creation_Date,timestamp,true
+reviews,7,Review_Answer_Timestamp,timestamp,true

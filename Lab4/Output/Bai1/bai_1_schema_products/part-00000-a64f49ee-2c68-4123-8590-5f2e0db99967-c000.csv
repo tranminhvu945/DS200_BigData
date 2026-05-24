@@ -1,0 +1,7 @@
+table_name,column_order,column_name,data_type,nullable
+products,1,Product_ID,string,true
+products,2,Product_Category_Name,string,true
+products,3,Product_Weight_Gr,int,true
+products,4,Product_Length_Cm,int,true
+products,5,Product_Height_Cm,int,true
+products,6,Product_Width_Cm,int,true

@@ -1,0 +1,8 @@
+table_name,column_order,column_name,data_type,nullable
+order_items,1,Order_ID,string,true
+order_items,2,Order_Item_ID,int,true
+order_items,3,Product_ID,string,true
+order_items,4,Seller_ID,string,true
+order_items,5,Shipping_Limit_Date,timestamp,true
+order_items,6,Price,double,true
+order_items,7,Freight_Value,double,true

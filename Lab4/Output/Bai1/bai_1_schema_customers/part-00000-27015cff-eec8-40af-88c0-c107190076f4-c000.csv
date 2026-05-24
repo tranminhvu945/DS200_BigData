@@ -1,0 +1,11 @@
+table_name,column_order,column_name,data_type,nullable
+customers,1,Customer_Trx_ID,string,true
+customers,2,Subscriber_ID,string,true
+customers,3,Subscribe_Date,date,true
+customers,4,First_Order_Date,date,true
+customers,5,Customer_Postal_Code,string,true
+customers,6,Customer_City,string,true
+customers,7,Customer_Country,string,true
+customers,8,Customer_Country_Code,string,true
+customers,9,Age,int,true
+customers,10,Gender,string,true

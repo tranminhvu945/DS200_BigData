@@ -1,0 +1,9 @@
+table_name,column_order,column_name,data_type,nullable
+orders,1,Order_ID,string,true
+orders,2,Customer_Trx_ID,string,true
+orders,3,Order_Status,string,true
+orders,4,Order_Purchase_Timestamp,timestamp,true
+orders,5,Order_Approved_At,timestamp,true
+orders,6,Order_Delivered_Carrier_Date,timestamp,true
+orders,7,Order_Delivered_Customer_Date,timestamp,true
+orders,8,Order_Estimated_Delivery_Date,timestamp,true
