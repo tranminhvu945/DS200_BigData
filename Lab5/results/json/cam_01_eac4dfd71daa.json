@@ -1,0 +1,42 @@
+{
+  "camera_id": "cam_01",
+  "frame_id": "cam_01_eac4dfd71daa",
+  "frame_index": 18,
+  "source_timestamp": "2026-06-13T09:24:51.032906+00:00",
+  "processed_timestamp": "2026-06-13T09:24:56.412537+00:00",
+  "person_count": 3,
+  "boxes": [
+    {
+      "x1": 2036.43,
+      "y1": 514.55,
+      "x2": 2286.58,
+      "y2": 1083.15,
+      "confidence": 0.8721,
+      "class_id": 0,
+      "class_name": "person"
+    },
+    {
+      "x1": 2568.06,
+      "y1": 1259.63,
+      "x2": 2880.0,
+      "y2": 1620.0,
+      "confidence": 0.7287,
+      "class_id": 0,
+      "class_name": "person"
+    },
+    {
+      "x1": 1230.87,
+      "y1": 343.6,
+      "x2": 1375.59,
+      "y2": 617.03,
+      "confidence": 0.7283,
+      "class_id": 0,
+      "class_name": "person"
+    }
+  ],
+  "processing_time_ms": 477.15,
+  "model": "yolov8n.pt",
+  "stored_timestamp": "2026-06-13T09:24:56.646323+00:00",
+  "image_path": "/app/results/images/cam_01_20260613_092451.jpg",
+  "json_path": "/app/results/json/cam_01_eac4dfd71daa.json"
+}

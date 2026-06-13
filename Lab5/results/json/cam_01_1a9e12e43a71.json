@@ -1,0 +1,14 @@
+{
+  "camera_id": "cam_01",
+  "frame_id": "cam_01_1a9e12e43a71",
+  "frame_index": 79,
+  "source_timestamp": "2026-06-13T09:25:21.463393+00:00",
+  "processed_timestamp": "2026-06-13T09:25:26.505601+00:00",
+  "person_count": 0,
+  "boxes": [],
+  "processing_time_ms": 164.18,
+  "model": "yolov8n.pt",
+  "stored_timestamp": "2026-06-13T09:25:26.769023+00:00",
+  "image_path": "/app/results/images/cam_01_20260613_092521.jpg",
+  "json_path": "/app/results/json/cam_01_1a9e12e43a71.json"
+}

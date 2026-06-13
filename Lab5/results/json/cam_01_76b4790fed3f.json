@@ -1,0 +1,24 @@
+{
+  "camera_id": "cam_01",
+  "frame_id": "cam_01_76b4790fed3f",
+  "frame_index": 104,
+  "source_timestamp": "2026-06-13T09:25:34.451561+00:00",
+  "processed_timestamp": "2026-06-13T09:25:39.890923+00:00",
+  "person_count": 1,
+  "boxes": [
+    {
+      "x1": 2603.9,
+      "y1": 1256.33,
+      "x2": 2878.82,
+      "y2": 1618.45,
+      "confidence": 0.422,
+      "class_id": 0,
+      "class_name": "person"
+    }
+  ],
+  "processing_time_ms": 169.51,
+  "model": "yolov8n.pt",
+  "stored_timestamp": "2026-06-13T09:25:40.167305+00:00",
+  "image_path": "/app/results/images/cam_01_20260613_092534.jpg",
+  "json_path": "/app/results/json/cam_01_76b4790fed3f.json"
+}
