@@ -1,4 +1,4 @@
-# DS200: Hệ thống đếm số lượng người hiện diện trong một camera.
+# DS200: Hệ thống đếm số lượng người trong camera.
 **MSSV:** `23521819` - **Trần Minh Vũ**
 
 ---
